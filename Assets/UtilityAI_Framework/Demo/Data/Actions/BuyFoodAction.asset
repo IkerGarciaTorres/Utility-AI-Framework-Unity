@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da2a793e16715e448a8150396d08a4ef, type: 3}
+  m_Name: BuyFoodAction
+  m_EditorClassIdentifier: 
+  actionName: BuyFoodAction
+  inertiaBonus: 0.2
+  considerations:
+  - {fileID: 11400000, guid: 5694ad06726ae31478d72500a9cca98a, type: 2}
+  - {fileID: 11400000, guid: 5abd1504563f6aa4fb1702f35d4c2b4f, type: 2}
+  - {fileID: 11400000, guid: 07f190f7ecc07bb4ba66bcfa0fea42d9, type: 2}
+  stoppingDistance: 0.5
+  foodPrice: 2
+  maxFoodToBuy: 5

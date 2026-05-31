@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36f57382c4025c3438580c5b266aad13, type: 3}
+  m_Name: SocialButterflyPersonality
+  m_EditorClassIdentifier: 
+  profileName: SocialButterflyPersonality
+  traits:
+  - {fileID: 11400000, guid: 20fb371e0b6836946a61fc7f36b71660, type: 2}
+  - {fileID: 11400000, guid: 58c748bd830ce5844a306b1c93ac2a01, type: 2}
+  - {fileID: 11400000, guid: 19b46d667eb15f6428c100297883e76d, type: 2}

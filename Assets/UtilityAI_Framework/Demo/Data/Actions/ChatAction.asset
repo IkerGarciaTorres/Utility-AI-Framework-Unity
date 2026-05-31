@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6daece057268a84cbbbd6c21755c96b, type: 3}
+  m_Name: ChatAction
+  m_EditorClassIdentifier: 
+  actionName: ChatAction
+  inertiaBonus: 0.1
+  considerations:
+  - {fileID: 11400000, guid: be0dff52458fb0b41848ca574f5a6c89, type: 2}
+  - {fileID: 11400000, guid: 15c15623a39e2474d8999f5214b9a690, type: 2}
+  patienceDuration: 2.5
+  socialRecoveryRate: 10
+  talkingDistance: 3
+  requestColor: {r: 0, g: 1, b: 0.9428868, a: 1}
+  chattingColor: {r: 1, g: 0, b: 1, a: 1}

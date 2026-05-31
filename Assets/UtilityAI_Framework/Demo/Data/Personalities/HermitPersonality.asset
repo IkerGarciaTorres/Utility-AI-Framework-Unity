@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36f57382c4025c3438580c5b266aad13, type: 3}
+  m_Name: HermitPersonality
+  m_EditorClassIdentifier: 
+  profileName: HermitPersonality
+  traits:
+  - {fileID: 11400000, guid: 79805ec523924ca4eb3aad2af6a40eaf, type: 2}
+  - {fileID: 11400000, guid: 58c748bd830ce5844a306b1c93ac2a01, type: 2}
+  - {fileID: 11400000, guid: 758a7c57e9da1ea459821b6d5bcdc239, type: 2}
